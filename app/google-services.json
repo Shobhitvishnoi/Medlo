@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361733694382",
+    "firebase_url": "https://medlo-d1b57.firebaseio.com",
+    "project_id": "medlo-d1b57",
+    "storage_bucket": "medlo-d1b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361733694382:android:a76173b4c626ae49ab9e3f",
+        "android_client_info": {
+          "package_name": "com.example.medlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361733694382-m6ur4bt7qnmedovqco000togjvucqpq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medlo",
+            "certificate_hash": "736b15aa014d9560cf1406c30e02de6db30d4d3b"
+          }
+        },
+        {
+          "client_id": "361733694382-mk90folnji31l08ulqniqmt3ffv12scj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yrUvtdKOerdWUv_3mM5VEnY6VFJcp2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361733694382-mk90folnji31l08ulqniqmt3ffv12scj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
